@@ -1,0 +1,10 @@
+D:\Source\Archive\Swapi\Swapi.Test\bin\Debug\Swapi.Test.dll
+D:\Source\Archive\Swapi\Swapi.Test\bin\Debug\Swapi.Test.pdb
+D:\Source\Archive\Swapi\Swapi.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Source\Archive\Swapi\Swapi.Test\bin\Debug\Swapi.Data.dll
+D:\Source\Archive\Swapi\Swapi.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Source\Archive\Swapi\Swapi.Test\bin\Debug\Swapi.Data.pdb
+D:\Source\Archive\Swapi\Swapi.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Source\Archive\Swapi\Swapi.Test\obj\Debug\Swapi.Test.csprojResolveAssemblyReference.cache
+D:\Source\Archive\Swapi\Swapi.Test\obj\Debug\Swapi.Test.dll
+D:\Source\Archive\Swapi\Swapi.Test\obj\Debug\Swapi.Test.pdb

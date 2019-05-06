@@ -1,0 +1,6 @@
+D:\Source\Archive\Swapi\Swapi.Data\bin\Debug\Swapi.Data.dll
+D:\Source\Archive\Swapi\Swapi.Data\bin\Debug\Swapi.Data.pdb
+D:\Source\Archive\Swapi\Swapi.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Source\Archive\Swapi\Swapi.Data\bin\Debug\Newtonsoft.Json.xml
+D:\Source\Archive\Swapi\Swapi.Data\obj\Debug\Swapi.Data.dll
+D:\Source\Archive\Swapi\Swapi.Data\obj\Debug\Swapi.Data.pdb

@@ -1,0 +1,8 @@
+D:\Source\Archive\Swapi\Swapi\bin\Debug\Swapi.exe.config
+D:\Source\Archive\Swapi\Swapi\bin\Debug\Swapi.exe
+D:\Source\Archive\Swapi\Swapi\bin\Debug\Swapi.pdb
+D:\Source\Archive\Swapi\Swapi\obj\Debug\Swapi.csprojResolveAssemblyReference.cache
+D:\Source\Archive\Swapi\Swapi\obj\Debug\Swapi.exe
+D:\Source\Archive\Swapi\Swapi\obj\Debug\Swapi.pdb
+D:\Source\Archive\Swapi\Swapi\bin\Debug\Swapi.Data.dll
+D:\Source\Archive\Swapi\Swapi\bin\Debug\Swapi.Data.pdb

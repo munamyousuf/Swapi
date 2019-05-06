@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>SWAPI</h1>
+    <p class="lead">SWAPI is a free web api that provies data. All the Star Wars data you've ever wanted.</p>
+    
+    <p>Click below buttons to save JSON data into file.</p>
+    <p>
+        <button class="btn btn-primary save" type="button" id="1" name="people">People</button>
+        <button class="btn btn-primary save" type="button" id="2" name="films">Film</button>
+        <button class="btn btn-primary save" type="button" id="12" name="starships">Starship</button>
+    </p>
+</div>
+
+@section Scripts{
+    
+    <script>
+
+
+        $(document).ready(function () {
+            $('.save').on('click', function () {
+                let _entity = $(this).attr('name');
+                let _id = $(this).attr('id');
+
+                $.post('@Url.Action("SaveEntity")', { entity: _entity, id: _id }, function (res) {
+                    if (res == 'True') {
+                        alert('data has been saved to file. Please look for Starwars folder in "D" drive');
+                    } else {
+                        alert('unable to save the file.');
+                    }
+                });
+            });
+        })
+    </script>
+    
+    }
